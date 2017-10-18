@@ -1,3 +1,4 @@
+/* ordenar las declaraciones por orden alfabético*/
 p.yellow {
   background-color: #f7b617
 }
@@ -35,8 +36,7 @@ div.fourth .yellow, div.fourth .black {
   width: 130px;
   height: 20px;
   padding: 9px;
-  margin: 0px 20px 10px;
-  display: inline-block;
-  box-sizing: content-box;
+  margin: 1px 13px 10px;
+  display: inline;
   text-align: center;
 }
