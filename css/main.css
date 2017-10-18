@@ -1,0 +1,27 @@
+p.yellow {
+  background-color: #f7b617
+}
+
+p.black {
+  background-color: #2b2b2b;
+  color: #FFFFFF;
+}
+
+div.first .yellow, div.first .black {
+  width: 1331px;
+  height: 122px;
+  box-sizing: content-box;
+  padding: 13px;
+}
+
+div.second .yellow, div.second .black {
+
+}
+
+div.third .yellow, div.third .black {
+
+}
+
+div.fourth .yellow, div.fourth .black {
+  text-align: center;
+}
